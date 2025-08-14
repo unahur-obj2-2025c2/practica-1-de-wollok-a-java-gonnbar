@@ -1,0 +1,13 @@
+ar/edu/unahur/obj2/wtoj/contenido/Serie.class
+ar/edu/unahur/obj2/wtoj/contenido/Contenido.class
+ar/edu/unahur/obj2/wtoj/planes/PlanBasico.class
+ar/edu/unahur/obj2/wtoj/contenido/Idra.class
+ar/edu/unahur/obj2/wtoj/planes/PlanSuscribible.class
+ar/edu/unahur/obj2/wtoj/Plataforma.class
+ar/edu/unahur/obj2/wtoj/contenido/Episodio.class
+ar/edu/unahur/obj2/wtoj/planes/PlanPremium.class
+ar/edu/unahur/obj2/wtoj/contenido/Pelicula.class
+ar/edu/unahur/obj2/wtoj/contenido/Documental.class
+ar/edu/unahur/obj2/wtoj/usuario/Usuario.class
+ar/edu/unahur/obj2/wtoj/planes/PlanDefecto.class
+ar/edu/unahur/obj2/wtoj/contenido/Temporada.class

@@ -1,0 +1,13 @@
+/home/gon/Documentos/unahur/2C2025/OBJ2/ejercicios/practica-1-de-wollok-a-java-gonnbar/src/main/java/ar/edu/unahur/obj2/wtoj/Plataforma.java
+/home/gon/Documentos/unahur/2C2025/OBJ2/ejercicios/practica-1-de-wollok-a-java-gonnbar/src/main/java/ar/edu/unahur/obj2/wtoj/contenido/Contenido.java
+/home/gon/Documentos/unahur/2C2025/OBJ2/ejercicios/practica-1-de-wollok-a-java-gonnbar/src/main/java/ar/edu/unahur/obj2/wtoj/contenido/Documental.java
+/home/gon/Documentos/unahur/2C2025/OBJ2/ejercicios/practica-1-de-wollok-a-java-gonnbar/src/main/java/ar/edu/unahur/obj2/wtoj/contenido/Episodio.java
+/home/gon/Documentos/unahur/2C2025/OBJ2/ejercicios/practica-1-de-wollok-a-java-gonnbar/src/main/java/ar/edu/unahur/obj2/wtoj/contenido/Idra.java
+/home/gon/Documentos/unahur/2C2025/OBJ2/ejercicios/practica-1-de-wollok-a-java-gonnbar/src/main/java/ar/edu/unahur/obj2/wtoj/contenido/Pelicula.java
+/home/gon/Documentos/unahur/2C2025/OBJ2/ejercicios/practica-1-de-wollok-a-java-gonnbar/src/main/java/ar/edu/unahur/obj2/wtoj/contenido/Serie.java
+/home/gon/Documentos/unahur/2C2025/OBJ2/ejercicios/practica-1-de-wollok-a-java-gonnbar/src/main/java/ar/edu/unahur/obj2/wtoj/contenido/Temporada.java
+/home/gon/Documentos/unahur/2C2025/OBJ2/ejercicios/practica-1-de-wollok-a-java-gonnbar/src/main/java/ar/edu/unahur/obj2/wtoj/planes/PlanBasico.java
+/home/gon/Documentos/unahur/2C2025/OBJ2/ejercicios/practica-1-de-wollok-a-java-gonnbar/src/main/java/ar/edu/unahur/obj2/wtoj/planes/PlanDefecto.java
+/home/gon/Documentos/unahur/2C2025/OBJ2/ejercicios/practica-1-de-wollok-a-java-gonnbar/src/main/java/ar/edu/unahur/obj2/wtoj/planes/PlanPremium.java
+/home/gon/Documentos/unahur/2C2025/OBJ2/ejercicios/practica-1-de-wollok-a-java-gonnbar/src/main/java/ar/edu/unahur/obj2/wtoj/planes/PlanSuscribible.java
+/home/gon/Documentos/unahur/2C2025/OBJ2/ejercicios/practica-1-de-wollok-a-java-gonnbar/src/main/java/ar/edu/unahur/obj2/wtoj/usuario/Usuario.java
